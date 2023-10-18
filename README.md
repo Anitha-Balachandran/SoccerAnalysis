@@ -1,4 +1,4 @@
-# Soccer Analysis
+# Soccer Analysis  - A Database Project for Analytics
 
 A comprehensive project designed to ingest, transform, visualize, and analyze soccer-related data. This project aims to provide in-depth insights into player statistics, match outcomes, and team performance over multiple seasons.
 
